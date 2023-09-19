@@ -1,3 +1,4 @@
 Dev branch created
 Added file1.txt
 File updated in Remote Repo
+practicing git fetch command
